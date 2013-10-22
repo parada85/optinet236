@@ -1,0 +1,25 @@
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+/app/config/parameters.yml
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# sublimetext
+/*.sublime-project
+*.sublime-workspace
+
+# Composer
+composer.phar
+
+# PHPUnit
+app/phpunit.xml  
